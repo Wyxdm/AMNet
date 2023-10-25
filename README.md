@@ -23,6 +23,6 @@ Few-shot segmentation (FSS) aims to segment objects of new categories given only
 
 
 ## 🖊 TODO
-- [ ] Release code
+- [ ] Release code (coming soon)
 - [ ] Release models
 - [ ] Demo
