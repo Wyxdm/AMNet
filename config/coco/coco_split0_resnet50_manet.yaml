@@ -23,7 +23,7 @@ Train:
   use_split_coco: True # True means FWB setting
   # Optimizer 
   batch_size: 4 # batch size for training (bs8 for 1GPU)
-  base_lr: 0.0001 
+  base_lr: 0.00005 
   pre_weight: /ssd/wy/fss/BAM/BAM-main/initmodel/PSPNet/coco/split0/resnet50/best.pth
   epochs: 75 
   start_epoch: 0
