@@ -1,5 +1,5 @@
 # AMNet
-This is the official implementation for our NeurIPS 2023 paper "Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation".
+This is the official implementation for our NeurIPS 2023 [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6447714b83edcbed61dbe10371dd7ae5-Paper-Conference.pdf) "Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation".
 
 <div align="center">
 
